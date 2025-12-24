@@ -1,0 +1,67 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "ClickMap",
+            "id": "60d7a283-57f7-42a7-9af3-94142fd06731",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "091d786f-0b41-4b73-bcc1-bec7e4de890f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fdec90e7-4339-4267-9dfd-b0acbb8b41b5",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e8ee3410-5061-483b-8d6f-fae4dedd3625",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cb113d1b-7f03-45ff-849a-90b80a6462bd",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d24e3e4f-5594-4a59-81f0-4ed2abafd484",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

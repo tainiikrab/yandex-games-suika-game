@@ -1,0 +1,4 @@
+repository "Cloud Repositories/Соединяй блоки -  Дойди до Алмаза!@10170677523679@cloud"
+  path "/"
+    br "/main"
+    co "/main"
